@@ -2,10 +2,9 @@
 
 Experiments conducted as part of Physiological Measurements & Instrumentation Laboratory (AM5023) during December 2021 & January 2022.
 
-## EXPERIMENT: To measure the tone, stiffness and hardness of the plantar region of the left and right foot. </br>
+## EXPERIMENT: To analyze the EOG signal obtained from horizontal and vertical channels acquired from a subject viewing a pendulum motion. 
 
-OBJECTIVES: </br>
-i. Measure the tone and stiffness of the plantar fascia muscles at 8 points on the foot using the MyotonPro hand-held device.  </br>
-ii. Measure the hardness of the plantar region at 8 points of the foot using a durometer.  </br>
-iii. Check for the reproducibility of myoton and durometer readings and compute the coefficient of variation.  </br>
-iv. Analyze the obtained values for the left and right foot.  </br>
+OBJECTIVES: <br/>
+i. To find the frequency of the pendulum from the acquired EOG signal.
+ii. Analyze the differences in the horizontal and vertical components of eye motion observed 
+from the signals acquired from the horizontal and vertical channels.
